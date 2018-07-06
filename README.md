@@ -1,2 +1,7 @@
 # Kaggle-CuisinePrediction
-Glove Embedding+LSTM
+
+Very basic model 
+
+Glove Embedding+Random Forest
+
+data: https://www.kaggle.com/shiqili/cuisine
